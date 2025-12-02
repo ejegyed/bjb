@@ -5,7 +5,7 @@
  */
 export default {
   "title": "Blue Jeans Billing",
-  "tagline": "Medical coding and billing",
+  "tagline": "Medical coding and billing by Beth Egyed",
   "favicon": "img/favicon.ico",
   "future": {
     "v4": {
@@ -145,7 +145,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2025 My Project, Inc. Built with Docusaurus."
+      "copyright": "Copyright © 2025 Blue Jeans Billing. Built with Docusaurus."
     },
     "prism": {
       "theme": {

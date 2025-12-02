@@ -4,8 +4,8 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "My Site",
-  "tagline": "Dinosaurs are cool",
+  "title": "Blue Jeans Billing",
+  "tagline": "Medical coding and billing",
   "favicon": "img/favicon.ico",
   "future": {
     "v4": {
